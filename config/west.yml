@@ -67,9 +67,9 @@ manifest:
       revision: dev/2024-04-acceleration
 
     # zmk module for nice_peri_view
-    - name: tmp-npv
-      remote: infused-kim
-      revision: main
+    #- name: tmp-npv
+    #  remote: infused-kim
+    #  revision: main
 
     # Urob's zmk helpers that contain key position defines
     - name: zmk-helpers
